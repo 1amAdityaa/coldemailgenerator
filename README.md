@@ -1,0 +1,2 @@
+# coldemailgenerator
+genai project
